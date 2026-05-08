@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /kriz.html
+
+Sitemap: https://www.bosanmaklinigi.com/sitemap.xml
